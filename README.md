@@ -1,5 +1,6 @@
 //# daily
 //快速排序
+//00000000000000000
 #include<iostream>
 #include<string>
 #include<cstdlib>
